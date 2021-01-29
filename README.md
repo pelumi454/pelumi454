@@ -23,3 +23,9 @@ Twitter: theOPdeveloper
 ![JAVAASCRIPT](https://img.shields.io/badge/-Javascript-444444?style=for-the-badge&logo=JAVASCRIPT)
 ![HTML5](https://img.shields.io/badge/-React-444444?style=for-the-badge&logo=React)
 ![Git](https://img.shields.io/badge/-git-444444?style=for-the-badge&logo=Git)
+
+<br />
+ <a href="https://github.com/pelumi454">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pelumi454&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelumi454&theme=buefy&layout=compact" />
+</a>
