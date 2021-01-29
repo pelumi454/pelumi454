@@ -15,7 +15,7 @@ Twitter: theOPdeveloper
 - 👯 Please have a look at my portfolio for more details about me. I'm open to feedback and suggestions!
 
 
-TECH STARK
+<h2>TECH STARK<h2/>
 
 ![HTML5](https://img.shields.io/badge/-html5-444444?style=for-the-badge&logo=Html5)
 ![CSS3](https://img.shields.io/badge/-CSS-444444?style=for-the-badge&logo=CSS3)
