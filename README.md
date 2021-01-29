@@ -18,6 +18,6 @@ Twitter: theOPdeveloper
 TECH STARK
 
 ![HTML5](https://img.shields.io/badge/-html5-444444?style=for-the-badge&logo=Html5)
-![CSS3](https://img.shields.io/badge/-html5-444444?style=for-the-badge&logo=CSS3)
-![JAVAASCRIPT](https://img.shields.io/badge/-html5-444444?style=for-the-badge&logo=JAVASCRIPT)
-![HTML5](https://img.shields.io/badge/-html5-444444?style=for-the-badge&logo=Html5)
+![CSS3](https://img.shields.io/badge/-CSS-444444?style=for-the-badge&logo=CSS3)
+![JAVAASCRIPT](https://img.shields.io/badge/-Javascript-444444?style=for-the-badge&logo=JAVASCRIPT)
+![HTML5](https://img.shields.io/badge/-React-444444?style=for-the-badge&logo=Html5)
