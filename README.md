@@ -23,7 +23,7 @@ Twitter: theOPdeveloper
 ![JAVAASCRIPT](https://img.shields.io/badge/-Javascript-444444?style=for-the-badge&logo=JAVASCRIPT)
 ![HTML5](https://img.shields.io/badge/-React-444444?style=for-the-badge&logo=React)
 ![Git](https://img.shields.io/badge/-git-444444?style=for-the-badge&logo=Git)
-![Netlify](https://img.shields.io/badge/-git-444444?style=for-the-badge&logo=Netlify)
+![Netlify](https://img.shields.io/badge/-netlify-444444?style=for-the-badge&logo=Netlify)
 
 
 <br />
