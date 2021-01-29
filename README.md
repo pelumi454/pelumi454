@@ -26,5 +26,5 @@ Twitter: theOPdeveloper
 
 <br />
  <a href="https://github.com/pelumi454">
- [![pelumi454's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelumi454)](https://github.com/pelumi454/github-readme-stats)
+ ![pelumi454's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelumi454&show_icons=true&theme=radical)
 </a>
