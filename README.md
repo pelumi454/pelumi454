@@ -1,10 +1,10 @@
-## Hi! I'm Christianah
+## Hi! I'm Christianah 😄
 
 <h3>Know More About Me</h3>
 
-- 🔭 I develop front end web applications using HTML,CSS and JAVASCRIPT
+- 😄 I develop front end web applications using HTML,CSS and JAVASCRIPT
 - 🌱 I’m currently learning React
-- 🔭 I’m currently working on building a fully fledged todo app with React-Redux
+- 😄 I’m currently working on building a fully fledged todo app with React-Redux
 - 🔭 I’m interested in sharing knowledge about new technologies
 - 🌱 I’m working on my progress to become a full-stack developer
 - 💬 Ask me about Anything
