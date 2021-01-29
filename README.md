@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi! I'm Christianah
 
-<!--
-**pelumi454/pelumi454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Know More About Me</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I develop front end web applications using HTML,CSS and JAVASCRIPT
+- 🌱 I’m currently learning ...React
+- 🔭 I’m currently working on ...building a fully fledged todo app with React-Redux
+- 🔭 I’m interested in sharing knowledge about new technologies
+- 🌱 I’m working on my progress to become a full-stack developer
+- 💬 Ask me about ...Anything
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gmail: amoochristianah454@gmail.com
+Twitter: theOPdeveloper
+- 😄 Pronouns: ...kris/ti
+- 👯 Please have a look at my portfolio for more details about me. I'm open to feedback and suggestions!
+
+
+TECH STARK
+https://img.shields.io/badge/-html5-444444?style=for-the-badge&logo=Html5
