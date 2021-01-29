@@ -26,6 +26,5 @@ Twitter: theOPdeveloper
 
 <br />
  <a href="https://github.com/pelumi454">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pelumi454&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelumi454&theme=buefy&layout=compact" />
+ [![pelumi454's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelumi454)](https://github.com/pelumi454/github-readme-stats)
 </a>
